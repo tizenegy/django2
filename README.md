@@ -1,5 +1,5 @@
-##django2
-#first django project
+##django2##
+#first django project#
 
 Projektlog Django:
 (folgt "python django crash course" von traversy media auf youtube)
