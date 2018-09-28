@@ -15,4 +15,5 @@ Projektlog Django:
 - Mit django-admin startproject djangowebsite in C:\dev> ein neues Projekt namens djangowebsite angelegt
 - Server starten mit python manage.py runserver ging nicht.
 - daher nochmal wie in video workon py1 in c:\dev und dann django-admin startproject django2 neues projekt angelegt
---> 
+-- python manage.py runserver geht. Stoppen mit strg-c.
+
