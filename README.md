@@ -1,5 +1,5 @@
-## django2 ##
-# first django project #
+# django2 #
+## first django project ##
 
 Projektlog Django:
 (folgt "python django crash course" von traversy media auf youtube)
@@ -15,5 +15,7 @@ Projektlog Django:
 - Mit django-admin startproject djangowebsite in C:\dev> ein neues Projekt namens djangowebsite angelegt
 - Server starten mit python manage.py runserver ging nicht.
 - daher nochmal wie in video workon py1 in c:\dev und dann django-admin startproject django2 neues projekt angelegt
--- python manage.py runserver geht. Stoppen mit strg-c.
-
+- python manage.py runserver geht. Stoppen mit strg-c.
+- http://localhost:8000/ geht
+- beim starten des servers: hinweis auf unapplied migrations. will aber nicht die default db verwenden
+- 
